@@ -1,0 +1,12 @@
+git config --global user.name "ulisesAGR"
+git config --global user.email "kingluslises10@gmail.com"
+
+
+git init ----solo una vez por carpeta para inicializar
+git status -s ---- VER EL STATUS
+git add index.html ----ADD ARCHIVO
+git add . ----ADD TODOS ARCHIVO
+git commit -m "add index.html" ---- HACER UN COMMIT AL REPOCITORY
+git push ---- MANDAR LO DEL PROYECTO ALA NUBE
+git pull ---- para descargr los cambios 
+
